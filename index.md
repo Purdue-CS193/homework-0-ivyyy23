@@ -1,4 +1,6 @@
-# Welcome to Archi's Page :D
+# Archi's First CS193 Homework
+
+## Welcome to Archi's Page :D
 
 Hello! This is **Archi** (short for Archisha). Here are some things I like:
 - Sweets
@@ -6,6 +8,11 @@ Hello! This is **Archi** (short for Archisha). Here are some things I like:
 - Math (just a little bit)
 
 ![Perry the Platysus](./perry_platysus.jpg)
+
+My favorite things about CS193 (right now, because I'll have new favorite things later on :p):
+- I get to meet lots of people in the lectures
+- The use of Ed makes asking questions more convenient
+- I'll finally know what commit in GitHub means
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
