@@ -1,4 +1,4 @@
-### Welcome to Archi's Page :D
+# Welcome to Archi's Page :D
 
 Hello! This is **Archi** (short for Archisha). Here are some things I like:
 - Sweets
